@@ -176,7 +176,7 @@ journalctl
 
 ##Scripts
 `Script                  	Purpose`
-01-company-setup.sh	Creates the TechCorp directory structure
-02-user-setup.sh	Creates users, groups, and the service account
+01-company-setup.sh  	Creates the TechCorp directory structure
+02-user-setup.sh	    Creates users, groups, and the service account
 03-permissions-setup.sh	Configures ownership and permissions
-04-system-report.sh	Generates a system health report
+04-system-report.sh	    Generates a system health report
